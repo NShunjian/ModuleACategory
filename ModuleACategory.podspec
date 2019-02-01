@@ -32,6 +32,7 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'ModuleACategory/Classes/**/*'
   
+  s.dependency 'CTMediator'
   # s.resource_bundles = {
   #   'ModuleACategory' => ['ModuleACategory/Assets/*.png']
   # }
